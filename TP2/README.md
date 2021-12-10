@@ -1,5 +1,4 @@
-Trabalho Prático 2 de Organização de Computadores
-Aluno: Marcos Guerreiro Rebelo
+<h1 align="center"> Trabalho Prático 2 </h1> 
 
 1) O que foi criado: 
 
