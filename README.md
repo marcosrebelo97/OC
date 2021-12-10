@@ -1,4 +1,3 @@
-# Organização de Computadores - ICC061
-
-Trabalhos práticos utilizando simulador lógico Logisim desenvolvidos na disciplina de Organização de Computadores <br /> 
-Aluno: Marcos Guerreiro Rebelo <br />
+<h1 align="center"> Organização de Computadores - ICC061 </h1> <br />
+  - Trabalhos práticos desenvolvidos na disciplina de Organização de Computadores <br /> 
+  - Ferramentas utilizada: Logisim <br />
