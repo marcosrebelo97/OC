@@ -4,9 +4,7 @@
 
 Um pseudo-compilador utilizando Python para ler arquivo de texto com código assembly,
 com a finalidade de traduzir cada instrução do arquivo lido em: binário e hexadecimal.
-Com isso, são gerados os dois arquivos:
-    - binario.txt
-    - hexadecimal.txt
+Com isso, são gerados os dois arquivos: <b>binario.txt</b> | <b>hexadecimal.txt</b>
 
 2) Decisões tomadas: 
 
