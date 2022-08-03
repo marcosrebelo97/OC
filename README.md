@@ -2,4 +2,4 @@
 
 
   - Trabalhos práticos desenvolvidos na disciplina de Organização de Computadores <br /> 
-  - Ferramenta utilizada: Logisim <br />
+  - Ferramenta: Logisim <br />
