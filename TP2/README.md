@@ -27,16 +27,11 @@ Sendo assim, a cada nova instrução utilizada deve estar em linha diferente. De
 
 Observação: comentadas no código
 
-4) Exemplos de testes utilizados para verificar:
-
-Foram utilizados os arquivos testes compartilhados no material (slide) disponibilizado. 
-No zip enviado contém uma pasta (assembly) com os arquivos teste usados.
-
-5) Passo a passo de como executar:
+4) Passo a passo de como executar:
 
 Observação: não funciona na versão 2.7 do python 
 
-- 1º passo: abra o arquivo .py e altere o diretório (comentado no código) 
-- 2º passo: para executar digite: py teste.py
+- 1º passo: abra o `arquivo.py` e altere o diretório (comentado no código) 
+- 2º passo: para executar digite: `py teste.py`
 
 
